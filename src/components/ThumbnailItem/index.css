@@ -1,0 +1,13 @@
+/* Write your code here. */
+.ThumbnailImage {
+  margin: 3px;
+}
+.shade {
+  opacity: 0.5;
+}
+
+.buttonstyles {
+  border: none;
+  border-radius: 12px;
+  background-color: #ffffff;
+}
